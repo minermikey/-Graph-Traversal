@@ -1,0 +1,14 @@
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.AssemblyInfoInputs.cache
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.AssemblyInfo.cs
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/bin/Debug/net9.0/Depth-First Search (DFS) Graphs
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/bin/Debug/net9.0/Depth-First Search (DFS) Graphs.deps.json
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/bin/Debug/net9.0/Depth-First Search (DFS) Graphs.runtimeconfig.json
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/bin/Debug/net9.0/Depth-First Search (DFS) Graphs.dll
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/bin/Debug/net9.0/Depth-First Search (DFS) Graphs.pdb
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.dll
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/refint/Depth-First Search (DFS) Graphs.dll
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.pdb
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/Depth-First Search (DFS) Graphs.genruntimeconfig.cache
+/Users/michaelsingh/PROG 7312 EB/Depth-First Search (DFS) Graphs/obj/Debug/net9.0/ref/Depth-First Search (DFS) Graphs.dll
